@@ -1,3 +1,8 @@
 Dosya1'in içeriği
+<<<<<<< HEAD
 dosya1 içeriğini dal a da değiştiriyorum.
 dosya1 içeriğini yine dal a da değiştiriyorum, conflict böyle oluyor heralde
+=======
+Dosya1 içeriğini dal b de değiştiriyorum. 
+dosya1 içeriğini yine dal b de değiştiriyorum, 2. conflict için
+>>>>>>> DAL-B
