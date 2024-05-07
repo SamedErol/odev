@@ -1,2 +1,3 @@
 Dosya1'in içeriği
 Dosya1 içeriğini dal b de değiştiriyorum. 
+dosya1 içeriğini yine dal b de değiştiriyorum, 2. conflict için
