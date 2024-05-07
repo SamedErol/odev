@@ -1,1 +1,2 @@
 Dosya1'in içeriği
+Dosya1 içeriğini dal b de değiştiriyorum. 
