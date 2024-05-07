@@ -1,2 +1,3 @@
 Dosya1'in içeriği
 dosya1 içeriğini dal a da değiştiriyorum.
+dosya1 içeriğini yine dal a da değiştiriyorum, conflict böyle oluyor heralde
